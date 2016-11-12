@@ -1,4 +1,4 @@
 # PythonTest
 Python Test Stuff
 
-Python Practice Codes about Class, Inheritance, Functions
+Python Practice Code about Class, Inheritance, Functions
